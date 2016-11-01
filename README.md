@@ -18,3 +18,4 @@ Open With CMD keeps the console window alive. It also shows execution time after
 - Once the execution is done,
  - Main console window remains opened.
  - Execution time is shown in main console window.
+
