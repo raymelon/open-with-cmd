@@ -1,0 +1,24 @@
+ID ICON "terminal.ico"
+1 VERSIONINFO
+FILEVERSION     1,0,0,0
+PRODUCTVERSION  1,0,0,0
+BEGIN
+  BLOCK "StringFileInfo"
+  BEGIN
+    BLOCK "040904E4"
+    BEGIN
+      VALUE "FileDescription", "Open with cmd"
+      VALUE "FileVersion", "1.0"
+      VALUE "InternalName", "Open with cmd"
+      VALUE "LegalCopyright", "© 2015 by Raymel Francisco"
+      VALUE "OriginalFilename", "open-with-cmd.exe"
+      VALUE "ProductName", "Open with cmd"
+      VALUE "ProductVersion", "1.0"
+    END
+  END
+
+  BLOCK "VarFileInfo"
+  BEGIN
+    VALUE "Translation", 0x409, 1252
+  END
+END
