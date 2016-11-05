@@ -3,6 +3,8 @@
  * Opens a file using command prompt
  *
  * (c) April 2015 Raymel Francisco
+ *
+ * Modified: Nov 2016
  */
 #ifndef _WIN32
  	#define _WIN32
@@ -34,6 +36,7 @@ int main(int argc, char *args[]) {
 		fputs("Open with cmd: No input files.\n", stdout);
 		system("echo Open with cmd: You will be redirected to Command Prompt. & echo.");
 		system("cmd.exe");
+		return 0;
 	}
 	
 	do {
