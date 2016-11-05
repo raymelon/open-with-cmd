@@ -36,6 +36,7 @@ int main(int argc, char *args[]) {
 		fputs("Open with cmd: No input files.\n", stdout);
 		system("echo Open with cmd: You will be redirected to Command Prompt. & echo.");
 		system("cmd.exe");
+		
 		return 0;
 	}
 	
