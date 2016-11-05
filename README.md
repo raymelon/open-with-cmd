@@ -19,3 +19,9 @@ Open With CMD keeps the console window alive. It also shows execution time after
  - Main console window remains opened.
  - Execution time is shown in main console window.
 
+# How to configure setup/installer file
+- Make sure you have [InstallForge](http://installforge.net/) installed on your machine.
+  - If not, go to http://installforge.net/download/ and download `IFSetup.exe`
+  - Then, run `IFSetup.exe`
+- Open `setup.ifp` with `InstallForge`
+
