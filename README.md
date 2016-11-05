@@ -31,6 +31,6 @@ Open With CMD keeps the console window alive. It also shows execution time after
 | --- | --- | --- | --- |
 | `General` | `General` | App's basic information | ![alt tag](https://github.com/raymelon/open-with-cmd/blob/master/installforge%20tutorial/ift%20general.JPG) |
 | `Setup` | `Files` | Files to be put on installation path | ![alt tag](https://github.com/raymelon/open-with-cmd/blob/master/installforge%20tutorial/ift%20setup%20files.JPG) |
-| `Dialogs` | `License` | App's Mozilla Public License Version 2.0 license | ![alt tag](https://github.com/raymelon/open-with-cmd/blob/master/installforge%20tutorial/ift%20dialogs%20license.JPG) |
+| `Dialogs` | `License` | App's [Mozilla Public License Version 2.0](https://github.com/raymelon/open-with-cmd/blob/master/LICENSE) license | ![alt tag](https://github.com/raymelon/open-with-cmd/blob/master/installforge%20tutorial/ift%20dialogs%20license.JPG) |
 | `Dialogs` | `Finish` | Runs [`add-to-context-menu.bat`](https://github.com/raymelon/open-with-cmd/blob/master/src/add-to-context-menu.bat) at setup finish | ![alt tag](https://github.com/raymelon/open-with-cmd/blob/master/installforge%20tutorial/ift%20dialogs%20finish.JPG) |
 | `System` | `Shortcuts` | Options for shortcuts' destinations | ![alt tag](https://github.com/raymelon/open-with-cmd/blob/master/installforge%20tutorial/ift%20system%20shortcuts.JPG) |
