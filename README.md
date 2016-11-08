@@ -25,7 +25,7 @@ Open With CMD keeps the console window alive. It also shows execution time after
   - Then, run `IFSetup.exe`
 - Open [`setup.ifp`](https://github.com/raymelon/open-with-cmd/blob/master/setup.ifp) with `InstallForge`
 
-- The following are the setup information
+- The following are the setup information (don't forget to save the InstallForge file & build the exe installer after editing)
 
 | Tab | Subtab | Details | Screenshot |
 | --- | --- | --- | --- |
