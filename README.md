@@ -1,19 +1,23 @@
 # Open With CMD
-Auto-pauses and times applications.
+**Auto-pauses and times applications.**
 
 Console applications have one problem, they auto-close when they are not opened via `Command Prompt`.
 
-Open With CMD automates the process of opening the `Command Prompt` in the folder, typing the app's name and pressing `enter` to run the app. It offers the same privilege on the said process by keeping the console window alive after exit. It also shows execution time after the app's execution. 
+Open With CMD automates the process of opening the `Command Prompt` in the folder, typing the app's name and pressing `enter` to run the app. It offers the same privilege on the said process by *keeping the console window alive after exit.* It also shows *execution time* after the app's execution. 
 
-This lightweight programmer's tool will be a great fit for those command line gurus especially those who run scripts. Scripts can be tested without worrying about not reading the exceptions that may cause the script to exit quickly, leaving insufficient time to read and analyze the exception message.
+This lightweight programmer's tool will be a great fit for command line gurus especially those who run scripts. Scripts can be tested without worrying about *not reading the exceptions that may cause the script to exit quickly*, leaving insufficient time to read and analyze the exception message.
 
-# How to use
+[User's Hub](#userhub)
+[Contributor's Hub](#contribhub)
+
+# User's Hub <a name="userhub"></a>
+## How to use
 1. Right click on the app (shortcut `.lnk` or the app `.exe` itself) you want to open
 2. Click `Open with command prompt` on the context menu.
 
   ![alt tag](https://github.com/raymelon/open-with-cmd/blob/master/screenshots/context%20menu%20shot.png)
 
-# How it works
+## How it works
 ### For GUI-based applications,
 - A seperate console window is opened.
   
@@ -33,7 +37,8 @@ This lightweight programmer's tool will be a great fit for those command line gu
  - Execution time is shown in main console window.
    ![alt tag](https://github.com/raymelon/open-with-cmd/blob/master/screenshots/console%20shot%20end%20wd%20error.PNG) 
 
-# How to configure setup/installer file
+# Contributor's Hub <a name="userhub"></a>
+## How to configure setup/installer file
 - Make sure you have [InstallForge](http://installforge.net/) installed on your machine.
   - If not, go to http://installforge.net/download/ and download `IFSetup.exe`
   - Then, run `IFSetup.exe`
