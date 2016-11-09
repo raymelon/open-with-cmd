@@ -1,3 +1,5 @@
+[!alt tag](https://github.com/raymelon/open-with-cmd/blob/master/res/terminal.png)
+
 # Open With CMD
 **Auto-pauses and times applications.**
 
