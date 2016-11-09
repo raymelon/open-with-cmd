@@ -7,18 +7,24 @@ Open With CMD automates the process of opening the `Command Prompt` in the folde
 
 This lightweight programmer's tool will be a great fit for command line gurus especially those who run scripts. Scripts can be tested without worrying about *not reading the exceptions that may cause the script to exit quickly*, leaving insufficient time to read and analyze the exception message.
 
-[User's Hub](#userhub)
-[Contributor's Hub](#contribhub)
+# Table of Contents
+1. [User's Hub](#userhub)
+  1. [How to use](#howtouse)
+  2. [How it works](#howitworks)
+    1. [For GUI-based applications](#gui)
+    2. [For console applications](#con)
+2. [Contributor's Hub](#contribhub)
+  1. [How to configure setup/installer file](#setup)
 
 # User's Hub <a name="userhub"></a>
-## How to use
+## How to use <a name="howtouse"></a>
 1. Right click on the app (shortcut `.lnk` or the app `.exe` itself) you want to open
 2. Click `Open with command prompt` on the context menu.
 
   ![alt tag](https://github.com/raymelon/open-with-cmd/blob/master/screenshots/context%20menu%20shot.png)
 
-## How it works
-### For GUI-based applications,
+## How it works <a name="howitworks"></a>
+### For GUI-based applications, <a name="gui"></a>
 - A seperate console window is opened.
   
   ![alt tag](https://github.com/raymelon/open-with-cmd/blob/master/screenshots/gui%20shot.png) 
@@ -29,7 +35,7 @@ This lightweight programmer's tool will be a great fit for command line gurus es
  - Execution time is shown in the seperate console window.
   ![alt tag](https://github.com/raymelon/open-with-cmd/blob/master/screenshots/gui%20shot%20end.PNG) 
 
-### For console applications, 
+### For console applications, <a name="con"></a>
 - No separate console window will be opened.
 - Debugging/exception/log messages is shown in main console window.
 - Once the execution is done,
@@ -38,7 +44,7 @@ This lightweight programmer's tool will be a great fit for command line gurus es
    ![alt tag](https://github.com/raymelon/open-with-cmd/blob/master/screenshots/console%20shot%20end%20wd%20error.PNG) 
 
 # Contributor's Hub <a name="contribhub"></a>
-## How to configure setup/installer file
+## How to configure setup/installer file <a name="setup"></a>
 - Make sure you have [InstallForge](http://installforge.net/) installed on your machine.
   - If not, go to http://installforge.net/download/ and download `IFSetup.exe`
   - Then, run `IFSetup.exe`
