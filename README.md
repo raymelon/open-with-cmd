@@ -14,7 +14,7 @@ This lightweight programmer's tool will be a great fit for command line gurus es
     1. [For GUI-based applications](#for-gui-based-applications)
     2. [For console applications](#for-console-applications)
 2. [Contributor's Hub](#contributors-hub)
-  1. [How to configure setupinstaller file](#how-to-configure-setup/installer-file)
+  1. [How to configure setupinstaller file](#how-to-configure-setupinstaller-file)
 
 # User's Hub 
 
