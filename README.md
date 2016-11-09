@@ -16,15 +16,21 @@ This lightweight programmer's tool will be a great fit for command line gurus es
 2. [Contributor's Hub](#contribhub)
   1. [How to configure setup/installer file](#setup)
 
-# User's Hub <a name="userhub"></a>
-## How to use <a name="howtouse"></a>
+<a name="userhub"></a>
+# User's Hub 
+
+<a name="howtouse"></a>
+## How to use 
 1. Right click on the app (shortcut `.lnk` or the app `.exe` itself) you want to open
 2. Click `Open with command prompt` on the context menu.
 
   ![alt tag](https://github.com/raymelon/open-with-cmd/blob/master/screenshots/context%20menu%20shot.png)
 
-## How it works <a name="howitworks"></a>
-### For GUI-based applications, <a name="gui"></a>
+<a name="howitworks"></a>
+## How it works 
+
+<a name="gui"></a>
+### For GUI-based applications, 
 - A seperate console window is opened.
   
   ![alt tag](https://github.com/raymelon/open-with-cmd/blob/master/screenshots/gui%20shot.png) 
@@ -35,7 +41,8 @@ This lightweight programmer's tool will be a great fit for command line gurus es
  - Execution time is shown in the seperate console window.
   ![alt tag](https://github.com/raymelon/open-with-cmd/blob/master/screenshots/gui%20shot%20end.PNG) 
 
-### For console applications, <a name="con"></a>
+<a name="con"></a>
+### For console applications,
 - No separate console window will be opened.
 - Debugging/exception/log messages is shown in main console window.
 - Once the execution is done,
@@ -43,8 +50,11 @@ This lightweight programmer's tool will be a great fit for command line gurus es
  - Execution time is shown in main console window.
    ![alt tag](https://github.com/raymelon/open-with-cmd/blob/master/screenshots/console%20shot%20end%20wd%20error.PNG) 
 
-# Contributor's Hub <a name="contribhub"></a>
-## How to configure setup/installer file <a name="setup"></a>
+<a name="contribhub"></a>
+# Contributor's Hub
+
+<a name="setup"></a>
+## How to configure setup/installer file
 - Make sure you have [InstallForge](http://installforge.net/) installed on your machine.
   - If not, go to http://installforge.net/download/ and download `IFSetup.exe`
   - Then, run `IFSetup.exe`
