@@ -7,10 +7,14 @@ Open With CMD keeps the console window alive. It also shows execution time after
 # How it works
 ### For GUI-based applications,
 - A seperate console window is opened.
+  
+  ![alt tag](https://github.com/raymelon/open-with-cmd/blob/master/screenshots/gui%20shot.png) 
+
 - Debugging/exception/log messages is shown in the separate console window.
 - Once the GUI closes,
  - Separate console window remains opened.
  - Execution time is shown in the seperate console window.
+  ![alt tag](https://github.com/raymelon/open-with-cmd/blob/master/screenshots/gui%20shot%20end.PNG) 
 
 ### For console applications, 
 - No separate console window will be opened.
@@ -18,6 +22,8 @@ Open With CMD keeps the console window alive. It also shows execution time after
 - Once the execution is done,
  - Main console window remains opened.
  - Execution time is shown in main console window.
+ 
+  ![alt tag](https://github.com/raymelon/open-with-cmd/blob/master/screenshots/console%20shot%20end%20wd%20error.PNG) 
 
 # How to configure setup/installer file
 - Make sure you have [InstallForge](http://installforge.net/) installed on your machine.
