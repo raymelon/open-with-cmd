@@ -1,8 +1,11 @@
 # Open With CMD
 Auto-pauses and times applications.
 
-Console applications have one problem, they auto-close when they are not opened via Command Prompt.
-Open With CMD keeps the console window alive. It also shows execution time after the app's execution.
+Console applications have one problem, they auto-close when they are not opened via `Command Prompt`.
+
+Open With CMD automates the process of opening the `Command Prompt` in the folder, typing the app's name and pressing `enter` to run the app. It offers the same privilege on the said process by keeping the console window alive after exit. It also shows execution time after the app's execution. 
+
+This lightweight programmer's tool will be a great fit for those command line gurus especially those who run scripts. Scripts can be tested without worrying about not reading the exceptions that may cause the script to exit quickly, leaving insufficient time to read and analyze the exception message.
 
 # How to use
 1. Right click on the app (shortcut `.lnk` or the app `.exe` itself) you want to open
