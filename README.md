@@ -4,6 +4,12 @@ Auto-pauses and times applications.
 Console applications have one problem, they auto-close when they are not opened via Command Prompt.
 Open With CMD keeps the console window alive. It also shows execution time after the app's execution.
 
+# How to use
+1. Right click on the app (shortcut `.lnk` or the app `.exe` itself) you want to open
+2. Click `Open with command prompt` on the context menu.
+
+  ![alt tag](https://github.com/raymelon/open-with-cmd/blob/master/screenshots/context%20menu%20shot.png)
+
 # How it works
 ### For GUI-based applications,
 - A seperate console window is opened.
@@ -22,8 +28,7 @@ Open With CMD keeps the console window alive. It also shows execution time after
 - Once the execution is done,
  - Main console window remains opened.
  - Execution time is shown in main console window.
- 
-  ![alt tag](https://github.com/raymelon/open-with-cmd/blob/master/screenshots/console%20shot%20end%20wd%20error.PNG) 
+   ![alt tag](https://github.com/raymelon/open-with-cmd/blob/master/screenshots/console%20shot%20end%20wd%20error.PNG) 
 
 # How to configure setup/installer file
 - Make sure you have [InstallForge](http://installforge.net/) installed on your machine.
