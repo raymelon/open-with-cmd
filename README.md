@@ -12,9 +12,9 @@ This lightweight programmer's tool will be a great fit for command line gurus es
   1. [How to use](#how-to-use)
   2. [How it works](#how-it-works)
     1. [For GUI-based applications](#for-gui-based-applications)
-    2. [For console applications](#con)
-2. [Contributor's Hub](#contribhub)
-  1. [How to configure setup/installer file](#setup)
+    2. [For console applications](#for-console-applications)
+2. [Contributor's Hub](#contributors-hub)
+  1. [How to configure setup/installer file](#how-to-configure-setup/installer-file)
 
 # User's Hub 
 
