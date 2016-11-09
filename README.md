@@ -37,7 +37,7 @@ This lightweight programmer's tool will be a great fit for command line gurus es
  - Execution time is shown in main console window.
    ![alt tag](https://github.com/raymelon/open-with-cmd/blob/master/screenshots/console%20shot%20end%20wd%20error.PNG) 
 
-# Contributor's Hub <a name="userhub"></a>
+# Contributor's Hub <a name="contribhub"></a>
 ## How to configure setup/installer file
 - Make sure you have [InstallForge](http://installforge.net/) installed on your machine.
   - If not, go to http://installforge.net/download/ and download `IFSetup.exe`
