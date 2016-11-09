@@ -8,28 +8,24 @@ Open With CMD automates the process of opening the `Command Prompt` in the folde
 This lightweight programmer's tool will be a great fit for command line gurus especially those who run scripts. Scripts can be tested without worrying about *not reading the exceptions that may cause the script to exit quickly*, leaving insufficient time to read and analyze the exception message.
 
 # Table of Contents
-1. [User's Hub](#userhub)
-  1. [How to use](#howtouse)
-  2. [How it works](#howitworks)
-    1. [For GUI-based applications](#gui)
+1. [User's Hub](#users-hub)
+  1. [How to use](#how-to-use)
+  2. [How it works](#how-it-works)
+    1. [For GUI-based applications](#for-gui-based-applications)
     2. [For console applications](#con)
 2. [Contributor's Hub](#contribhub)
   1. [How to configure setup/installer file](#setup)
 
-<a name="userhub"></a>
 # User's Hub 
 
-<a name="howtouse"></a>
 ## How to use 
 1. Right click on the app (shortcut `.lnk` or the app `.exe` itself) you want to open
 2. Click `Open with command prompt` on the context menu.
 
   ![alt tag](https://github.com/raymelon/open-with-cmd/blob/master/screenshots/context%20menu%20shot.png)
 
-<a name="howitworks"></a>
 ## How it works 
 
-<a name="gui"></a>
 ### For GUI-based applications, 
 - A seperate console window is opened.
   
@@ -41,7 +37,6 @@ This lightweight programmer's tool will be a great fit for command line gurus es
  - Execution time is shown in the seperate console window.
   ![alt tag](https://github.com/raymelon/open-with-cmd/blob/master/screenshots/gui%20shot%20end.PNG) 
 
-<a name="con"></a>
 ### For console applications,
 - No separate console window will be opened.
 - Debugging/exception/log messages is shown in main console window.
@@ -50,10 +45,7 @@ This lightweight programmer's tool will be a great fit for command line gurus es
  - Execution time is shown in main console window.
    ![alt tag](https://github.com/raymelon/open-with-cmd/blob/master/screenshots/console%20shot%20end%20wd%20error.PNG) 
 
-<a name="contribhub"></a>
 # Contributor's Hub
-
-<a name="setup"></a>
 ## How to configure setup/installer file
 - Make sure you have [InstallForge](http://installforge.net/) installed on your machine.
   - If not, go to http://installforge.net/download/ and download `IFSetup.exe`
