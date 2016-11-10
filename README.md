@@ -19,7 +19,7 @@ This lightweight programmer's tool will be a great fit for command line gurus es
 2. [Contributor's Hub](#contributors-hub)
   1. [How to configure setup/installer file](#how-to-configure-setupinstaller-file)
   
-# User's Hub
+# User's Hub :squirrel:
 <img align="right" width="50%" src="https://github.com/raymelon/open-with-cmd/blob/master/screenshots/context%20menu%20shot.png">
 ## How to use
    
@@ -69,7 +69,7 @@ This lightweight programmer's tool will be a great fit for command line gurus es
 - Windows Vista & XP (untested :x:)
 - Below XP (run at your own risk :warning:)
 
-# Contributor's Hub
+# Contributor's Hub :octocat:
 ## How to configure setup/installer file
 - Make sure you have [InstallForge](http://installforge.net/) installed on your machine.
   - If not, go to http://installforge.net/download/ and download `IFSetup.exe`
