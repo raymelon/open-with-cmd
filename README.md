@@ -14,6 +14,7 @@ This lightweight programmer's tool will be a great fit for command line gurus es
   2. [How it works](#how-it-works) 
     1. [For GUI-based applications](#for-gui-based-applications)
     2. [For console applications](#for-console-applications)
+  3. [Will run on...](#will-run-on...)
 
 2. [Contributor's Hub](#contributors-hub)
   1. [How to configure setup/installer file](#how-to-configure-setupinstaller-file)
@@ -62,6 +63,11 @@ This lightweight programmer's tool will be a great fit for command line gurus es
  - Main console window remains opened.
  - Execution time is shown in main console window.
    ![alt tag](https://github.com/raymelon/open-with-cmd/blob/master/screenshots/console%20shot%20end%20wd%20error.PNG) 
+
+## Will run on...
+- Windows 7 to 10 (tested)
+- Windows Vista & XP (untested)
+- Below XP (run at your own risk)
 
 # Contributor's Hub
 ## How to configure setup/installer file
