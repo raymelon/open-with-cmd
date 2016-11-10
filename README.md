@@ -20,10 +20,11 @@ This lightweight programmer's tool will be a great fit for command line gurus es
 # User's Hub 
 
 ## How to use 
+   <img align="right" width="70%" height="70%" src="https://github.com/raymelon/open-with-cmd/blob/master/screenshots/context%20menu%20shot.png">
+   
 1. Right click on the app (shortcut `.lnk` or the app `.exe` itself) you want to open
 2. Click `Open with command prompt` on the context menu.
 
-  ![alt tag](https://github.com/raymelon/open-with-cmd/blob/master/screenshots/context%20menu%20shot.png)
 
 ## How it works 
 
