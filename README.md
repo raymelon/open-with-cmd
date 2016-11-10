@@ -11,14 +11,14 @@ This lightweight programmer's tool will be a great fit for command line gurus es
 # Table of Contents
 1. [User's Hub](#users-hub)
   1. [How to use](#how-to-use)
-  2. [How it works](#how-it-works)
+  2. [How it works](#how-it-works) 
     1. [For GUI-based applications](#for-gui-based-applications)
     2. [For console applications](#for-console-applications)
+
 2. [Contributor's Hub](#contributors-hub)
-  1. [How to configure setupinstaller file](#how-to-configure-setupinstaller-file)
+  1. [How to configure setup/installer file](#how-to-configure-setupinstaller-file)
   
-<img align="right" width="40%" height="40%" src="https://github.com/raymelon/open-with-cmd/blob/master/screenshots/context%20menu%20shot.png">
-# User's Hub
+# User's Hub <img align="right" width="60%" height="65%" src="https://github.com/raymelon/open-with-cmd/blob/master/screenshots/context%20menu%20shot.png">
 
 ## How to use
    
