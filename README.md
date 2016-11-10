@@ -40,11 +40,17 @@ This lightweight programmer's tool will be a great fit for command line gurus es
   
   ![alt tag](https://github.com/raymelon/open-with-cmd/blob/master/screenshots/gui%20shot.png) 
 
+
 - Debugging/exception/log messages is shown in the separate console window.
-- Once the GUI closes,
+
+
+- Once the GUI closes,  <img align="right" src="https://github.com/raymelon/open-with-cmd/blob/master/screenshots/gui%20shot%20end.PNG">
+ 
+ 
  - Separate console window remains opened.
+ 
+ 
  - Execution time is shown in the seperate console window.
-  ![alt tag](https://github.com/raymelon/open-with-cmd/blob/master/screenshots/gui%20shot%20end.PNG) 
 
 ### For console applications,
 - No separate console window will be opened.
