@@ -66,8 +66,8 @@ This lightweight programmer's tool will be a great fit for command line gurus es
 
 ## Will run on...
 - Windows 7 to 10 (tested :100:)
-- Windows Vista & XP (untested :bangbang:)
-- Below XP (run at your own risk :x:)
+- Windows Vista & XP (untested :x:)
+- Below XP (run at your own risk :warning:)
 
 # Contributor's Hub
 ## How to configure setup/installer file
