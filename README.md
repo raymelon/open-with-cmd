@@ -17,7 +17,10 @@ This lightweight programmer's tool will be a great fit for command line gurus es
   3. [Will run on...](#will-run-on)
 
 2. [Contributor's Hub](#contributors-hub)
-  1. [How to configure setup/installer file](#how-to-configure-setupinstaller-file)
+  1. [Tools needed](#tools-needed)
+  2. [How to configure setup/installer file](#how-to-configure-setupinstaller-file)
+  
+3. [License](#license)
   
 # User's Hub :squirrel:
 <img align="right" width="50%" src="https://github.com/raymelon/open-with-cmd/blob/master/screenshots/context%20menu%20shot.png">
@@ -92,3 +95,10 @@ This lightweight programmer's tool will be a great fit for command line gurus es
 | `Dialogs` | `License` | App's [Mozilla Public License Version 2.0](https://github.com/raymelon/open-with-cmd/blob/master/LICENSE) license | ![alt tag](https://github.com/raymelon/open-with-cmd/blob/master/installforge%20tutorial/ift%20dialogs%20license.JPG) |
 | `Dialogs` | `Finish` | Runs [`add-to-context-menu.bat`](https://github.com/raymelon/open-with-cmd/blob/master/src/add-to-context-menu.bat) at setup finish | ![alt tag](https://github.com/raymelon/open-with-cmd/blob/master/installforge%20tutorial/ift%20dialogs%20finish.JPG) |
 | `System` | `Shortcuts` | Options for shortcuts' destinations | ![alt tag](https://github.com/raymelon/open-with-cmd/blob/master/installforge%20tutorial/ift%20system%20shortcuts.JPG) |
+
+# License
+Mozilla Public License Version 2.0
+- [LICENSE](https://github.com/raymelon/open-with-cmd/blob/master/LICENSE)
+- [Site](https://www.mozilla.org/en-US/MPL/2.0/)
+- [FAQ](https://www.mozilla.org/en-US/MPL/2.0/FAQ/)
+- [Overview](http://oss-watch.ac.uk/resources/mpl2)
