@@ -98,7 +98,7 @@ This lightweight programmer's tool will be a great fit for command line gurus es
 
 # License
 Mozilla Public License Version 2.0
-- [LICENSE](https://github.com/raymelon/open-with-cmd/blob/master/LICENSE)
-- [Site](https://www.mozilla.org/en-US/MPL/2.0/)
-- [FAQ](https://www.mozilla.org/en-US/MPL/2.0/FAQ/)
-- [Overview](http://oss-watch.ac.uk/resources/mpl2)
+- [LICENSE file](https://github.com/raymelon/open-with-cmd/blob/master/LICENSE)
+- [MPL 2.0 Site](https://www.mozilla.org/en-US/MPL/2.0/)
+- [MPL 2.0 FAQs](https://www.mozilla.org/en-US/MPL/2.0/FAQ/)
+- [MPL 2.0 Overview](http://oss-watch.ac.uk/resources/mpl2)
