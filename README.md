@@ -16,8 +16,9 @@ This lightweight programmer's tool will be a great fit for command line gurus es
     2. [For console applications](#for-console-applications)
 2. [Contributor's Hub](#contributors-hub)
   1. [How to configure setupinstaller file](#how-to-configure-setupinstaller-file)
-
-# User's Hub     <img align="right" width="60%" height="60%" src="https://github.com/raymelon/open-with-cmd/blob/master/screenshots/context%20menu%20shot.png">
+  
+<img align="right" width="40%" height="40%" src="https://github.com/raymelon/open-with-cmd/blob/master/screenshots/context%20menu%20shot.png">
+# User's Hub
 
 ## How to use
    
