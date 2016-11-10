@@ -18,8 +18,8 @@ This lightweight programmer's tool will be a great fit for command line gurus es
 2. [Contributor's Hub](#contributors-hub)
   1. [How to configure setup/installer file](#how-to-configure-setupinstaller-file)
   
-# User's Hub <img align="right" width="60%" height="65%" src="https://github.com/raymelon/open-with-cmd/blob/master/screenshots/context%20menu%20shot.png">
-
+# User's Hub
+<img align="right" width="60%" height="65%" src="https://github.com/raymelon/open-with-cmd/blob/master/screenshots/context%20menu%20shot.png">
 ## How to use
    
 1. Right click on the app (shortcut `.lnk` or the app `.exe` itself) you want to open
