@@ -21,8 +21,9 @@ This lightweight programmer's tool will be a great fit for command line gurus es
   2. [How to configure setup/installer file](#how-to-configure-setupinstaller-file)
   
 3. [License](#license)
+4. [Releases](#releases) :soon:
   
-# User's Hub :squirrel:
+# User's Hub
 <img align="right" width="50%" src="https://github.com/raymelon/open-with-cmd/blob/master/screenshots/context%20menu%20shot.png">
 ## How to use
    
@@ -72,7 +73,7 @@ This lightweight programmer's tool will be a great fit for command line gurus es
 - Windows Vista & XP (untested :x:)
 - Below XP (run at your own risk :warning:)
 
-# Contributor's Hub :octocat:
+# Contributor's Hub
 ## Tools needed
 - [C](http://www.open-std.org/jtc1/sc22/wg14/) Compiler: [GCC, the GNU Compiler Collection](https://gcc.gnu.org/) 
  - Tested on versions [4.8.4](https://gcc.gnu.org/gcc-4.8/) to [5.3.0](https://gcc.gnu.org/gcc-5/)
@@ -102,3 +103,6 @@ This project uses Mozilla Public License Version 2.0
 - [MPL 2.0 Site](https://www.mozilla.org/en-US/MPL/2.0/)
 - [MPL 2.0 FAQs](https://www.mozilla.org/en-US/MPL/2.0/FAQ/)
 - [MPL 2.0 Overview](http://oss-watch.ac.uk/resources/mpl2)
+
+# Releases
+Releases will be out :soon:!
