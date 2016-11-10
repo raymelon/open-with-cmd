@@ -65,9 +65,9 @@ This lightweight programmer's tool will be a great fit for command line gurus es
    ![alt tag](https://github.com/raymelon/open-with-cmd/blob/master/screenshots/console%20shot%20end%20wd%20error.PNG) 
 
 ## Will run on...
-- Windows 7 to 10 (tested)
-- Windows Vista & XP (untested)
-- Below XP (run at your own risk)
+- Windows 7 to 10 (tested :100:)
+- Windows Vista & XP (untested :bangbang:)
+- Below XP (run at your own risk :x:)
 
 # Contributor's Hub
 ## How to configure setup/installer file
