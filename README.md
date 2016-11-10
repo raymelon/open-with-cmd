@@ -29,6 +29,7 @@ This lightweight programmer's tool will be a great fit for command line gurus es
 <br>
 <br>
 <br>
+
 ## How it works 
 
 ### For GUI-based applications, 
@@ -53,6 +54,7 @@ This lightweight programmer's tool will be a great fit for command line gurus es
 <br>
 <br>
 <br>
+
 ### For console applications,
 - No separate console window will be opened.
 - Debugging/exception/log messages is shown in main console window.
