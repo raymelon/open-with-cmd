@@ -14,7 +14,7 @@ This lightweight programmer's tool will be a great fit for command line gurus es
   2. [How it works](#how-it-works) 
     1. [For GUI-based applications](#for-gui-based-applications)
     2. [For console applications](#for-console-applications)
-  3. [Will run on...](#will-run-on...)
+  3. [Will run on...](#will-run-on)
 
 2. [Contributor's Hub](#contributors-hub)
   1. [How to configure setup/installer file](#how-to-configure-setupinstaller-file)
