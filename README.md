@@ -76,7 +76,7 @@ This lightweight programmer's tool will be a great fit for command line gurus es
 # Contributor's Hub
 ## Tools needed
 - [C](http://www.open-std.org/jtc1/sc22/wg14/) Compiler: [GCC, the GNU Compiler Collection](https://gcc.gnu.org/) 
- - Tested on versions [4.8.4](https://gcc.gnu.org/gcc-4.8/) to [5.3.0](https://gcc.gnu.org/gcc-5/)
+ - Tested on versions [4.8.1](https://gcc.gnu.org/gcc-4.8/) to [5.3.0](https://gcc.gnu.org/gcc-5/)
  - Untested on newer versions
 - Resources Compiler: [windres](https://sourceware.org/binutils/docs/binutils/windres.html)
 - Installer Creator: [InstallForge](http://installforge.net/) [1.3.2](http://installforge.net/download/)
