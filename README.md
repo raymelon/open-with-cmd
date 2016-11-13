@@ -79,13 +79,14 @@ This lightweight programmer's tool will be a great fit for command line gurus es
  - Tested on versions [4.8.1](https://gcc.gnu.org/gcc-4.8/) to [5.3.0](https://gcc.gnu.org/gcc-5/)
  - Untested on newer versions
 - Resources Compiler: [windres](https://sourceware.org/binutils/docs/binutils/windres.html)
-- Installer Creator: [InstallForge](http://installforge.net/) [1.3.2](http://installforge.net/download/)
+- Installer Compiler: [NSIS 3.0](http://nsis.sourceforge.net/Main_Page)
+- Installer Editor: [HM NIS Edit](hmne.sourceforge.net)
 
 ## How to configure setup/installer file
-- Make sure you have atleast [NSIS 3.0](http://nsis.sourceforge.net/Main_Page) installed on your machine.
-  - If not, go to hhttp://nsis.sourceforge.net/Download and download `nsis-3.0-setup`
+- Make sure you have atleast [NSIS 3.0](http://nsis.sourceforge.net/Main_Page) and [`HM NIS Edit`](hmne.sourceforge.net) installed on your machine.
+  - If not, go to http://nsis.sourceforge.net/Download and download `nsis-3.0-setup`
   - Then, run `nsis-3.0-setup`
-- Open [`setup.nsi`](https://github.com/raymelon/open-with-cmd/blob/master/nsis-3.0-setup) with [`HM NIS Edit`](hmne.sourceforge.net)
+- Open [`setup.nsi`](https://github.com/raymelon/open-with-cmd/blob/master/nsis-3.0-setup) with `HM NIS Edit`
 - Make sure to `Compile` `setup.nsi` after editing it.
 
 # Licenses
