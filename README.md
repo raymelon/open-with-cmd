@@ -82,27 +82,23 @@ This lightweight programmer's tool will be a great fit for command line gurus es
 - Installer Creator: [InstallForge](http://installforge.net/) [1.3.2](http://installforge.net/download/)
 
 ## How to configure setup/installer file
-- Make sure you have [InstallForge](http://installforge.net/) installed on your machine.
-  - If not, go to http://installforge.net/download/ and download `IFSetup.exe`
-  - Then, run `IFSetup.exe`
-- Open [`setup.ifp`](https://github.com/raymelon/open-with-cmd/blob/master/setup.ifp) with `InstallForge`
+- Make sure you have atleast [NSIS 3.0](http://nsis.sourceforge.net/Main_Page) installed on your machine.
+  - If not, go to hhttp://nsis.sourceforge.net/Download and download `nsis-3.0-setup`
+  - Then, run `nsis-3.0-setup`
+- Open [`setup.nsi`](https://github.com/raymelon/open-with-cmd/blob/master/nsis-3.0-setup) with [`HM NIS Edit`](hmne.sourceforge.net)
+- Make sure to `Compile` `setup.nsi` after editing it.
 
-- The following are the setup information (don't forget to `save` the `InstallForge` file & `build` the exe installer after editing)
-
-| Tab | Subtab | Details | Screenshot |
-| --- | --- | --- | --- |
-| `General` | `General` | App's basic information | ![alt tag](https://github.com/raymelon/open-with-cmd/blob/master/installforge%20tutorial/ift%20general.JPG) |
-| `Setup` | `Files` | Files to be put on installation path | ![alt tag](https://github.com/raymelon/open-with-cmd/blob/master/installforge%20tutorial/ift%20setup%20files.JPG) |
-| `Dialogs` | `License` | App's [Mozilla Public License Version 2.0](https://github.com/raymelon/open-with-cmd/blob/master/LICENSE) license | ![alt tag](https://github.com/raymelon/open-with-cmd/blob/master/installforge%20tutorial/ift%20dialogs%20license.JPG) |
-| `Dialogs` | `Finish` | Runs [`add-to-context-menu.bat`](https://github.com/raymelon/open-with-cmd/blob/master/src/add-to-context-menu.bat) at setup finish | ![alt tag](https://github.com/raymelon/open-with-cmd/blob/master/installforge%20tutorial/ift%20dialogs%20finish.JPG) |
-| `System` | `Shortcuts` | Options for shortcuts' destinations | ![alt tag](https://github.com/raymelon/open-with-cmd/blob/master/installforge%20tutorial/ift%20system%20shortcuts.JPG) |
-
-# License
+# Licenses
 This project uses Mozilla Public License Version 2.0
 - [See the full LICENSE file](https://github.com/raymelon/open-with-cmd/blob/master/LICENSE)
 - [MPL 2.0 Site](https://www.mozilla.org/en-US/MPL/2.0/)
 - [MPL 2.0 FAQs](https://www.mozilla.org/en-US/MPL/2.0/FAQ/)
 - [MPL 2.0 Overview](http://oss-watch.ac.uk/resources/mpl2)
+
+[`terminal.ico`](https://github.com/raymelon/open-with-cmd/blob/master/res/terminal.ico) and [`terminal.png`](https://github.com/raymelon/open-with-cmd/blob/master/res/terminal.png) uses Creative Commons Attribution 4.0 International
+ - [Icon license file](https://github.com/raymelon/open-with-cmd/blob/master/res/icon-license.txt)
+ - [CC BY 4.0 Site](https://creativecommons.org/licenses/by/4.0/)
+ - [CC BY 4.0 Legal Code](https://creativecommons.org/licenses/by/4.0/legalcode)
 
 # Releases
 Releases will be out :soon:!
