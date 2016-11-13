@@ -20,7 +20,7 @@ This lightweight programmer's tool will be a great fit for command line gurus es
   1. [Tools needed](#tools-needed)
   2. [How to configure setup/installer file](#how-to-configure-setupinstaller-file)
   
-3. [License](#license)
+3. [Licenses](#license)
 4. [Releases](#releases) :soon:
   
 # User's Hub
@@ -83,7 +83,7 @@ This lightweight programmer's tool will be a great fit for command line gurus es
 - Installer Editor: [HM NIS Edit](hmne.sourceforge.net)
 
 ## How to configure setup/installer file
-- Make sure you have atleast [NSIS 3.0](http://nsis.sourceforge.net/Main_Page) and [`HM NIS Edit`](hmne.sourceforge.net) installed on your machine.
+- Make sure you have atleast [NSIS 3.0](http://nsis.sourceforge.net/Main_Page) and [HM NIS Edit](hmne.sourceforge.net) installed on your machine.
   - If not, go to http://nsis.sourceforge.net/Download and download `nsis-3.0-setup`
   - Then, run `nsis-3.0-setup`
 - Open [`setup.nsi`](https://github.com/raymelon/open-with-cmd/blob/master/nsis-3.0-setup) with `HM NIS Edit`
