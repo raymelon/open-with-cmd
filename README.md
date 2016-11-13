@@ -22,7 +22,8 @@ This lightweight programmer's tool will be a great fit for command line gurus es
   2. [How to configure setup/installer file](#how-to-configure-setupinstaller-file)
   
 3. [Licenses](#license)
-4. [Releases](#releases) :soon:
+4. [History](#history)
+5. [Releases](#releases)
   
 # User's Hub
 <img align="right" width="50%" src="https://github.com/raymelon/open-with-cmd/blob/master/screenshots/context%20menu%20shot.png">
@@ -105,5 +106,6 @@ This project uses Mozilla Public License Version 2.0
 # History
 - April 2015 (started)
 - November 2016 (github debut)
+
 # Releases
 [v1.0](https://github.com/raymelon/open-with-cmd/releases/tag/v1.0)
