@@ -1,13 +1,16 @@
 
 <h1 align="center"> Open With CMD <br> <h3 align="center">Command Prompt, with a pause.</h3> </h1>
 
-**Auto-pauses and times applications.**  <img align="right" src="https://github.com/raymelon/open-with-cmd/blob/master/res/terminal.ico">
+### Auto-pauses and times applications.  <img align="right" src="https://github.com/raymelon/open-with-cmd/blob/master/res/terminal.ico">
 
 Console applications have one problem, they auto-close when they are not opened via `Command Prompt`.
 
 Open With CMD automates the process of opening the `Command Prompt` in the folder, typing the app's name and pressing `enter` to run the app. It offers the same privilege on the said process by *keeping the console window alive after exit.* It also shows *execution time* after the app's execution.
 
 This lightweight programmer's tool will be a great fit for command line gurus especially those who run scripts. Scripts can be tested without worrying about *not reading the exceptions that may cause the script to exit quickly*, leaving insufficient time to read and analyze the exception message.
+
+### Download :love_letter:
+[`open-with-cmd-1.0-setup.exe`](https://github.com/raymelon/open-with-cmd/releases/download/v1.0/open-with-cmd-1.0-setup.exe) :new:
 
 # Table of Contents
 1. [User's Hub](#users-hub)
