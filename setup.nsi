@@ -39,7 +39,7 @@
 ; MUI end ------
 
 Name "${PRODUCT_NAME} ${PRODUCT_VERSION}"
-OutFile "open-with-cmd-v1.0-setup"
+OutFile "open-with-cmd-1.0-setup.exe"
 InstallDir "$PROGRAMFILES\Open with CMD"
 InstallDirRegKey HKLM "${PRODUCT_DIR_REGKEY}" ""
 ShowInstDetails show
@@ -53,6 +53,8 @@ Section "MainSection" SEC01
   CreateShortCut "$SMPROGRAMS\Open with CMD\Open with CMD.lnk" "$INSTDIR\open-with-cmd.exe"
   CreateShortCut "$DESKTOP\Open with CMD.lnk" "$INSTDIR\open-with-cmd.exe"
   File "res\terminal.ico"
+  File "LICENSE.txt"
+  FILE "res\icon-license.txt"
 
   WriteRegStr HKCR "*\shell\Open with command prompt" "" "Open with command prompt"
   WriteRegExpandStr HKCR "*\shell\Open with command prompt" "Icon" "$INSTDIR\terminal.ico"
@@ -68,7 +70,7 @@ Section -AdditionalIcons
 SectionEnd
 
 Section -Post
-  WriteUninstaller "$INSTDIR\uninst.exe"
+  WriteUninstaller "$INSTDIR\uninstall-open-with-cmd.exe"
   WriteRegStr HKLM "${PRODUCT_DIR_REGKEY}" "" "$INSTDIR\open-with-cmd.exe"
   WriteRegStr ${PRODUCT_UNINST_ROOT_KEY} "${PRODUCT_UNINST_KEY}" "DisplayName" "$(^Name)"
   WriteRegStr ${PRODUCT_UNINST_ROOT_KEY} "${PRODUCT_UNINST_KEY}" "UninstallString" "$INSTDIR\uninst.exe"
@@ -77,7 +79,6 @@ Section -Post
   WriteRegStr ${PRODUCT_UNINST_ROOT_KEY} "${PRODUCT_UNINST_KEY}" "URLInfoAbout" "${PRODUCT_WEB_SITE}"
   WriteRegStr ${PRODUCT_UNINST_ROOT_KEY} "${PRODUCT_UNINST_KEY}" "Publisher" "${PRODUCT_PUBLISHER}"
 SectionEnd
-
 
 Function un.onUninstSuccess
   HideWindow
@@ -91,10 +92,12 @@ FunctionEnd
 
 Section Uninstall
   Delete "$INSTDIR\${PRODUCT_NAME}.url"
-  Delete "$INSTDIR\uninst.exe"
+  Delete "$INSTDIR\uninstall-open-with-cmd.exe"
   Delete "$INSTDIR\add-to-context-menu.bat"
   Delete "$INSTDIR\open-with-cmd.exe"
   Delete "$INSTDIR\terminal.ico"
+  Delete "$INSTDIR\LICENSE.txt"
+  Delete "$INSTDIR\icon-license.txt"
 
   Delete "$SMPROGRAMS\Open with CMD\Uninstall.lnk"
   Delete "$SMPROGRAMS\Open with CMD\Website.lnk"
