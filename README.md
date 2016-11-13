@@ -1,6 +1,6 @@
 
-<h1 align="center"> Open With CMD </h1>
-<h2 align="center"> Command Prompt, with a pause. </h2>
+<h1 align="center"> Open With CMD <br> <h3 align="center">Command Prompt, with a pause.</h3> </h1>
+<hr>
 **Auto-pauses and times applications.**  <img align="right" src="https://github.com/raymelon/open-with-cmd/blob/master/res/terminal.ico">
 
 Console applications have one problem, they auto-close when they are not opened via `Command Prompt`.
