@@ -102,5 +102,8 @@ This project uses Mozilla Public License Version 2.0
  - [CC BY 4.0 Site](https://creativecommons.org/licenses/by/4.0/)
  - [CC BY 4.0 Legal Code](https://creativecommons.org/licenses/by/4.0/legalcode)
 
+# History
+- April 2015 (started)
+- November 2016 (github debut)
 # Releases
-Releases will be out :soon:!
+[v1.0](https://github.com/raymelon/open-with-cmd/releases/tag/v1.0)
