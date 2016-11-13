@@ -58,7 +58,7 @@ Section "MainSection" SEC01
 
   WriteRegStr HKCR "*\shell\Open with command prompt" "" "Open with command prompt"
   WriteRegExpandStr HKCR "*\shell\Open with command prompt" "Icon" "$INSTDIR\terminal.ico"
-  WriteRegStr HKCR "*\shell\Open with command prompt\command" "" "$INSTDIR\open-with-cmd.exe"
+  WriteRegStr HKCR "*\shell\Open with command prompt\command" "" "$INSTDIR\open-with-cmd.exe %1"
   
   File "bin\add-to-context-menu.bat"
 SectionEnd
