@@ -16,7 +16,7 @@ This lightweight programmer's tool will be a great fit for command line gurus es
 [`open-with-cmd-1.0-setup.exe`](https://github.com/raymelon/open-with-cmd/releases/download/v1.0/open-with-cmd-1.0-setup.exe) :new:
 
 ### Share with :heart::blue_heart:
-[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Check out Open with CMD! @github https://github.com/raymelon/open-with-cmd)
+[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Check out Open with CMD! Still your Command Prompt, with a pause. @github https://github.com/raymelon/open-with-cmd)
 
 # Table of Contents
 1. [User's Hub](#users-hub)
