@@ -1,6 +1,10 @@
 
 <h1 align="center"> Open With CMD <br> <h3 align="center">Command Prompt, with a pause.</h3> </h1>
 
+[![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by/4.0/)
+[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://github.com/raymelon/open-with-cmd)
+
 ### Auto-pauses and times applications.  <img align="right" src="https://github.com/raymelon/open-with-cmd/blob/master/res/terminal.ico">
 
 Console applications have one problem, they auto-close when they are not opened via `Command Prompt`.
@@ -78,7 +82,7 @@ This lightweight programmer's tool will be a great fit for command line gurus es
 - Windows Vista & XP (untested :x:)
 - Below XP (run at your own risk :warning:)
 
-# Contributor's Hub
+# Contributor's Hub [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 ## Tools needed
 - [C](http://www.open-std.org/jtc1/sc22/wg14/) Compiler: [GCC, the GNU Compiler Collection](https://gcc.gnu.org/) 
  - Tested on versions [4.8.1](https://gcc.gnu.org/gcc-4.8/) to [5.3.0](https://gcc.gnu.org/gcc-5/)
@@ -94,7 +98,7 @@ This lightweight programmer's tool will be a great fit for command line gurus es
 - Open [`setup.nsi`](https://github.com/raymelon/open-with-cmd/blob/master/nsis-3.0-setup) with `HM NIS Edit`
 - Make sure to `Compile` `setup.nsi` after editing it.
 
-# Licenses
+# Licenses [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by/4.0/)
 This project uses Mozilla Public License Version 2.0
 - [See the full LICENSE file](https://github.com/raymelon/open-with-cmd/blob/master/LICENSE)
 - [MPL 2.0 Site](https://www.mozilla.org/en-US/MPL/2.0/)
