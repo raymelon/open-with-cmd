@@ -86,7 +86,7 @@ This lightweight programmer's tool will be a great fit for command line gurus es
 - Windows Vista & XP (untested :x:)
 - Below XP (run at your own risk :warning:)
 
-# Contributor's Hub [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
+# Contributor's Hub [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)]()
 ## Tools needed
 - [C](http://www.open-std.org/jtc1/sc22/wg14/) Compiler: [GCC, the GNU Compiler Collection](https://gcc.gnu.org/) 
  - Tested on versions [4.8.1](https://gcc.gnu.org/gcc-4.8/) to [5.3.0](https://gcc.gnu.org/gcc-5/)
