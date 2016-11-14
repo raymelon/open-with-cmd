@@ -3,7 +3,6 @@
 
 [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by/4.0/)
-[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Check out Open with CMD! @github https://github.com/raymelon/open-with-cmd)
 
 ### Auto-pauses and times applications.  <img align="right" src="https://github.com/raymelon/open-with-cmd/blob/master/res/terminal.ico">
 
@@ -15,6 +14,9 @@ This lightweight programmer's tool will be a great fit for command line gurus es
 
 ### Download :love_letter:
 [`open-with-cmd-1.0-setup.exe`](https://github.com/raymelon/open-with-cmd/releases/download/v1.0/open-with-cmd-1.0-setup.exe) :new:
+
+### Share with :heart::blue_heart:
+[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Check out Open with CMD! @github https://github.com/raymelon/open-with-cmd)
 
 # Table of Contents
 1. [User's Hub](#users-hub)
