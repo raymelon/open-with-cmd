@@ -1,4 +1,4 @@
 language: c
 compiler: gcc
 script:
-  - gcc -m32 -o bin/open-with-cmd.exe src/main.c res/main.res
+  - gcc -o bin/open-with-cmd.exe src/main.c
