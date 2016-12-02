@@ -1,2 +1,5 @@
 language: c
 compiler: gcc
+script:
+  - windres src/main.rc -O coff -o res/main.res
+  - gcc -m32 -o bin/open-with-cmd.exe src/main.c res/main.res
