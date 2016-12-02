@@ -11,7 +11,6 @@
 #endif
 
 #include <stdio.h>
-#include <conio.h>
 #include <time.h>
 #include "convert_time.c"
 /*
@@ -53,6 +52,6 @@ int main(int argc, char *args[]) {
 		time_t end;
 		time(&end);
 		fprintf(stdout, "\nProcess ended in %s-----------------------------\nOpened by Open with cmd.\nPress any key to run again...", convert_time(difftime(end, start)));
-	} while (getch());
+	} while (getc(stdin));
 	return 0;
 }
