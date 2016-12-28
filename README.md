@@ -16,7 +16,7 @@ Open With CMD automates the process of opening the `Command Prompt` in the folde
 This lightweight programmer's tool will be a great fit for command line gurus especially those who run scripts. Scripts can be tested without worrying about *not reading the exceptions that may cause the script to exit quickly*, leaving insufficient time to read and analyze the exception message.
 
 ### Download :love_letter:
-[`open-with-cmd-1.0-setup.exe`](https://github.com/raymelon/open-with-cmd/releases/download/v1.0/open-with-cmd-1.0-setup.exe) :new:
+[`open-with-cmd-1.0-setup.exe`](https://github.com/raymelon/open-with-cmd/releases/download/v1.0/open-with-cmd-setup.exe) :new:
 
 ### Share with :heart::blue_heart:
 [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Check out Open with CMD! Still your Command Prompt, with a pause. @github https://github.com/raymelon/open-with-cmd)
