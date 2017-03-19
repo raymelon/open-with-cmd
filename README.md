@@ -5,7 +5,6 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by/4.0/)
 [![Build Status](https://travis-ci.org/raymelon/open-with-cmd.svg)](https://travis-ci.org/raymelon/open-with-cmd)
 ![](https://reposs.herokuapp.com/?path=raymelon/open-with-cmd)
-[comment]: # ( [![HitCount](https://hitt.herokuapp.com/raymelon/open-with-cmd/hits.svg)](https://github.com/raymelon/open-with-cmd))
 
 ### Auto-pauses and times applications.  <img align="right" src="https://github.com/raymelon/open-with-cmd/blob/master/res/terminal.ico">
 
@@ -19,19 +18,19 @@ This lightweight programmer's tool will be a great fit for command line gurus es
 [`open-with-cmd-1.0-setup.exe`](https://github.com/raymelon/open-with-cmd/releases/download/v1.0/open-with-cmd-setup.exe) :new:
 
 ### Share with :heart::blue_heart:
-[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Check out Open with CMD! Still your Command Prompt, with a pause. @github https://github.com/raymelon/open-with-cmd)
+[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Check%20out%20Open%20with%20CMD!%20Still%20your%20Command%20Prompt,%20with%20a%20pause.%20%40github%20https://github.com/raymelon/open-with-cmd)
 
 # Table of Contents
 1. [User's Hub](#users-hub)
-  1. [How to use](#how-to-use)
-  2. [How it works](#how-it-works) 
-    1. [For GUI-based applications](#for-gui-based-applications)
-    2. [For console applications](#for-console-applications)
-  3. [Will run on...](#will-run-on)
+   1. [How to use](#how-to-use)
+   2. [How it works](#how-it-works) 
+      1. [For GUI-based applications](#for-gui-based-applications)
+      2. [For console applications](#for-console-applications)
+   3. [Will run on...](#will-run-on)
 
 2. [Contributor's Hub](#contributors-hub)
-  1. [Tools needed](#tools-needed)
-  2. [How to configure setup/installer file](#how-to-configure-setupinstaller-file)
+   1. [Tools needed](#tools-needed)
+   2. [How to configure setup/installer file](#how-to-configure-setupinstaller-file)
   
 3. [Licenses](#license)
 4. [History](#history)
@@ -39,6 +38,7 @@ This lightweight programmer's tool will be a great fit for command line gurus es
   
 # User's Hub
 <img align="right" width="50%" src="https://github.com/raymelon/open-with-cmd/blob/master/screenshots/context%20menu%20shot.png">
+
 ## How to use
    
 1. Right click on the app (shortcut `.lnk` or the app `.exe` itself) you want to open
