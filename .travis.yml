@@ -1,8 +1,7 @@
 language: c
 compiler: gcc
 before_install:
-  - pip install --user cpp-coveralls
-  - pip install pyyaml
+  - python -m pip install -U pip --user cpp-coveralls
 script:
   - chmod +x configure
   - ./configure --enable-gcov
