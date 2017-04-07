@@ -2,3 +2,6 @@ language: c
 compiler: gcc
 script:
   - gcc -o bin/open-with-cmd.exe src/main.c
+after_success:
+  - test_helper.rb
+  
