@@ -3,6 +3,7 @@ compiler: gcc
 before_install:
   - pip install --user cpp-coveralls
 script:
+  - chmod +x configure
   - ./configure --enable-gcov && make && make check
   - gcc -o bin/open-with-cmd.exe src/main.c
 after_success:
