@@ -4,6 +4,7 @@
 [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by/4.0/)
 [![Build Status](https://travis-ci.org/raymelon/open-with-cmd.svg)](https://travis-ci.org/raymelon/open-with-cmd)
+[![Coverage Status](https://coveralls.io/repos/github/raymelon/open-with-cmd/badge.svg?branch=master)](https://coveralls.io/github/raymelon/open-with-cmd?branch=master)
 ![](https://reposs.herokuapp.com/?path=raymelon/open-with-cmd)
 
 ### Auto-pauses and times applications.  <img align="right" src="https://github.com/raymelon/open-with-cmd/blob/master/res/terminal.ico">
